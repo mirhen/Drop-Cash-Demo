@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Test Connect/ViewController.swift"
+            timestampString = "551587396.00889"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "addCardViewControllerDidCancel(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Test Connect/Handlers/StripeClient.swift"
+            timestampString = "551587396.008967"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "connectStripeAccount(authToken:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Test Connect/Services/UserService.swift"
+            timestampString = "552101380.30093"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "addStripeAccountTo(_:stripeAccount:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Test_Connect.UserService.addStripeAccountTo(Test_Connect.User, stripeAccount: Test_Connect.StripeAccount, completion: (Swift.Optional&lt;Test_Connect.User&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Test Connect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miriamhaart/Desktop/Beacon%20/Connect/Test%20Connect/Test%20Connect/Services/UserService.swift"
+                  timestampString = "552101380.774996"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "927">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__ObjC.DataSnapshot) -&gt; () in static Test_Connect.UserService.addStripeAccountTo(Test_Connect.User, stripeAccount: Test_Connect.StripeAccount, completion: (Swift.Optional&lt;Test_Connect.User&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Test Connect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miriamhaart/Desktop/Beacon%20/Connect/Test%20Connect/Test%20Connect/Services/UserService.swift"
+                  timestampString = "552101380.777087"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "22">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
